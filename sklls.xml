@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user_1>
+	<field name="skill_1">Linux_terminal</field>
+	<field name="skill_2">Git</field>
+	<field name="skill_3">DevTools</field>
+	<field name="skill_4">SQL</field>
+	<field name="skill_5">Postman</field>
+        <field name="skill_6">Selenium</field>
+        <field name="skill_7">Jmeter</field>
+	<field name="skill_8">Jenkins</field>
+	<field name="skill_9">Python</field>
+</user_1>
