@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report_001>
+  <field name="ID">BR001</field>
+  <field name="Title/Summary">The trading platform page is opened by clicking buttons [Go to platform] and [Add to favourite] in any page of any trading instrument of menu section [Markets]</field>,
+  <field name="Preconditions">
+                              <pr1>Navigate to capital.com" </pr1>
+                              <pr2>User is authorized</pr2>
+  </field>
+  <field name="Steps_to_reproduce">
+                              <str1>Hover over the menu section [Markets]</str1>
+                              <str2>Click menu item [All markets / Forex / Indices / Cryptocurrencies (exept FCA) / Commodities / Shares]</str2>
+                              <str3>Click any traiding instrument</str3>
+                              <str4>Click button [Add to favoruite]</str4>
+  </field>
+  <field name="Expected_result">The page of the corresponding trading instrument on the trading platform is opened</field>
+  <field name="Actual_result">The trading platform page is opened</field>
+  <field name="Attachments"><path>https://drive.google.com/file/d/1FjY5ugvYxGnCBlzz8LXtwbbBRZoxhxfr/view?usp=sharing</path></field>
+  <field name="Environment">Win 11 Chrome 116</field>
+  <field name="Severity">Medium</field>
+  <field name="Priority">Minor</field>
+  <field name="Author">Mariia_Nevzorova</field>
+  <field name="Date">11_sep_2023</field>
+</bug_report_001>
